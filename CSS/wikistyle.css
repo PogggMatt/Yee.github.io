@@ -39,34 +39,31 @@
   }
 
   .KVRC {
-    color: #fff;
     overflow: hidden;
+    color: #fff;
     padding-top: 20px;
-    padding-left: 250px;
   }
   .KVRCL {
-    width: 300px;
+    width: 200px;
     float: left;
   }
   .KVRCR {
-    width: calc(100% - 700px);
-    float: left;
+    display: table-cell;
+    width: 9999px;
   }
 
   .XBOT {
-    color: #fff;
     overflow: hidden;
+    color: #fff;
     padding-top: 20px;
-    padding-left: 250px;
   }
   .XBOTR {
-    width: calc(100% - 700px);
+    width: 900px;
     float: left;
   }
   .XBOTL {
-    width: 300px;
-    float: left;
-    padding-left: 55px;
+    display: table-cell;
+    width: 500px;
   }
 
 
