@@ -46,9 +46,11 @@
   }
   .KVRCL {
     width: 300px;
+    float: left;
   }
   .KVRCR {
     width: calc(100% - 700px);
+    float: left;
   }
 
   .XBOT {
